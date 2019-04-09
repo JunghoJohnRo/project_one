@@ -1,0 +1,3 @@
+gkey = "AIzaSyCH9L14oB6ihJIhQQ0midyxAbhEnBRaSvk"
+
+ckey = "743bdede7b944a7155a96306a9477d487925c090"
